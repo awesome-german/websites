@@ -1391,6 +1391,6 @@ Whether you're learning for career advancement, academic pursuits, personal enri
 
 **Happy Learning! Viel Erfolg beim Deutschlernen!**
 
-*Last Updated: 2025*
+*Last Updated: November 2025*
 
 *This awesome list is continually updated. For the latest version, visit the repository.*
