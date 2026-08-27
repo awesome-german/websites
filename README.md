@@ -59,6 +59,8 @@ Official resources from German government institutions and cultural organization
 
 Comprehensive platforms offering structured learning paths from beginner to advanced levels.
 
+- [Deutsch Maroc - دويتش مغرب](https://belkaida7-blip.github.io/deutsch-maroc/) - Free German lessons (A1-B2) in Arabic/Darija for Moroccan learners, with audio, exercises, and Goethe-style exams.
+
 ### Comprehensive Learning Platforms
 
 - [Duolingo](https://www.duolingo.com/) - Free gamified language learning platform with extensive German course. Great for building foundational vocabulary and grammar through daily practice.
