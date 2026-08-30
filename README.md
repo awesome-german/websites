@@ -110,6 +110,7 @@ Master German grammar with these comprehensive resources covering everything fro
 - [Learn German Online](https://www.learn-german-online.com/) - Structured grammar lessons with interactive exercises.
 - [German Grammar Drills](https://www.german-grammar-drills.de/) - Focused practice on specific grammar points.
 - [Ich will Deutsch lernen](https://www.iwdl.de/) - Comprehensive free e-learning portal by German Adult Education Association.
+- [Übungszeit](https://ubungszeit.com/) - Graded reading, listening, writing and speaking exercises for A1-C1, with an AI tutor that explains every mistake.
 
 ### Case and Declension Resources
 
