@@ -82,6 +82,7 @@ Comprehensive platforms offering structured learning paths from beginner to adva
 - [Deutsch-Lernen.com](https://deutsch-lernen.com/) - Free interactive exercises and lessons for German learners at all levels.
 - [LingQ](https://www.lingq.com/) - Extensive library of authentic German content with vocabulary tracking and spaced repetition.
 - [Yabla German](https://german.yabla.com/) - Video immersion platform with interactive subtitles and comprehension games.
+- [Germanium](https://germanium.pages.dev/) - Free structured 77-day study plan taking absolute beginners from zero to A2 (CEFR). Built on Deutsche Welle sources with a day-by-day roadmap, grammar sheets, and printable worksheets.
 
 ### University-Affiliated Programs
 
