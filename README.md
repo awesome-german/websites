@@ -4,23 +4,6 @@
 
 German is one of the most widely spoken languages in Europe and offers incredible opportunities for career advancement, cultural exploration, and academic pursuits. Whether you're learning German for business, travel, immigration, or personal enrichment, this comprehensive guide provides you with the best online resources to support your language learning journey.
 
-<!-- BEGIN gh-mutual-linking -->
-
-### Related projects
-
-- [**caddy-midi**](https://github.com/didvc/caddy-midi) — Caddy HTTP handler that serves MIDI files as synthesized audio. Pure Go, no cgo.
-- [**PingTracer-web**](https://github.com/nim-apps/PingTracer-web) — Ping monitor in Nim.
-- [**sdg**](https://github.com/SDGScript/sdg) — SDGScript | the sustainable programming language. A lighthearted but real tree-walking interpreter in Go.
-- [**simple-desktop-replay**](https://github.com/didvc/simple-desktop-replay) — Always-on rolling replay buffer for the Windows desktop: a low-overhead RAM DVR that keeps the last few minutes of screen so you can save the…
-- [**oss**](https://github.com/simple-netmon/oss) — Network monitor for Windows, local, privacy-respecting, per-app (ETW-first, no Npcap)
-- [**astro-html-editor**](https://github.com/didvc/astro-html-editor) — Self-hosted HTML editor with live preview. Astro SSR + plain JavaScript, server-side file persistence.
-- [**culture**](https://github.com/awesome-german/culture) — German cultural insights, traditions, and lifestyle guides for learners and expatriates.
-- [**web-resources**](https://github.com/awesome-german/web-resources)
-- [**news**](https://github.com/awesome-german/news) — German news outlets, RSS feeds, and current-affairs reading practice tools
-- [**living**](https://github.com/awesome-germany/living)
-- [**html-bio-generator**](https://github.com/didvc/html-bio-generator) — A modern, intuitive tool for creating beautiful HTML bio pages with ease. Built with Next.js, TypeScript, and Tailwind CSS. Perfect for…
-<!-- END gh-mutual-linking -->
-
 ## Contents
 
 - [Official Resources](#official-resources)
@@ -661,6 +644,12 @@ Specialized German learning for particular fields and purposes.
 
 - [IT German Vocabulary](https://www.it-visions.de/) - Technology and IT terminology in German.
 - [Programming in German](https://entwickler.de/) - Developer portal with German tech content.
+
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
 
 ## Contributing
 
@@ -1411,3 +1400,23 @@ Whether you're learning for career advancement, academic pursuits, personal enri
 *Last Updated: November 2025*
 
 *This awesome list is continually updated. For the latest version, visit the repository.*
+
+## License
+
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
+
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [web-resources](https://github.com/awesome-german/web-resources): Online platforms, databases, and archives for German studies.
+- [apps](https://github.com/awesome-german/apps): Mobile and web apps for mastering German vocabulary, grammar, and speaking skills effectively.
+- [learning-tools](https://github.com/awesome-german/learning-tools): Apps and materials for German language and its comparison.
+- [communities](https://github.com/awesome-german/communities): Online and offline German learning communities for discussion, support, and collaboration.
+- [grammar](https://github.com/awesome-german/grammar): Resources for learning German grammar, including structures, syntax, and usage nuances.
+
+<!-- END gh-mutual-linking -->

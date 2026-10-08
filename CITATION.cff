@@ -1,19 +1,17 @@
 cff-version: 1.2.0
-message: "If you use or reference this Awesome list, please cite it as follows."
-title: "Awesome websites for learning Resources"
+title: "awesome-german/websites"
+message: "If you use or reference this list, please cite it using the metadata from this file."
+type: dataset
 authors:
-  - family-names: "Maintainers"
-    given-names: "Awesome List"
-    affiliation: "Open Source Community"
-repository-code: "https://github.com/awesome-german/awesome-german/websites"
-url: "https://github.com/awesome-german/awesome-german/websites"
-version: "1.0.0"
-date-released: "2025-11-07"
+  - name: "Aesthetic Vulpes"
+    alias: didvc
+    website: "https://github.com/didvc"
+repository-code: "https://github.com/awesome-german/websites"
+url: "https://github.com/awesome-german/websites"
+license: CC-BY-4.0
+abstract: "Trusted websites, online courses, and resources for mastering German from beginner to advanced."
 keywords:
   - awesome-list
-  - curated
-  - resources
-license: "CC-BY-4.0"
-abstract: >
-  A curated collection of high-quality resources on websites for learning.
-  Contributions are welcome.
+  - german
+  - language-learning
+  - websites
