@@ -493,6 +493,8 @@ Immerse yourself in German culture while learning the language.
 - [Atlas Obscura - Germany](https://www.atlasobscura.com/things-to-do/germany) - Unusual and interesting places in Germany.
 - [Rick Steves Germany](https://www.ricksteves.com/europe/germany) - Travel guides with cultural insights.
 - [Lonely Planet Germany](https://www.lonelyplanet.com/germany) - Comprehensive travel information and culture guides.
+- [Bucketlist.nl Netherlands Checklist](https://bucketlist.nl/bucketlist-nederland/checklist?lang=de) - Free German-language Netherlands travel checklist with experience descriptions, search and printing; optional external bookings may be paid.
+<!-- Modified: one Bucketlist.nl resource added by Martijn, 2026-11-04; original list and attribution retained under CC BY 4.0. -->
 
 ## Specialized Learning Tools
 
